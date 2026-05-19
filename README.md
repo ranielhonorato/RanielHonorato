@@ -1,32 +1,25 @@
-# Olá! 👋 Sou Raniel Honorato
+# Olá! Sou Raniel Honorato
 
-Bem-vindo ao meu espaço no GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **IFPE** e estou em uma jornada constante de aprendizado para me tornar um desenvolvedor de software preparado para resolver problemas reais.
+Desenvolvedor Java iniciante com foco em Back-end.
+Estudo ADS no IFPE e pratico lógica, OOP e algoritmos
+com exercícios versionados aqui no GitHub.
 
-## 🎯 Meu Objetivo
+## 🛠️ Tecnologias que estou aprendendo
 
-Construir uma base sólida em desenvolvimento de software através de:
-- 📚 Estudo contínuo de tecnologias modernas
-- 💻 Desenvolvimento de projetos práticos e relevantes
-- 🚀 Contribuição para comunidades open source
-- 🤝 Colaboração e aprendizado coletivo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat&logo=java&logoColor=white) - Iniciante (em aprendizado contínuo)
+## 📚 Atualmente estudando
+- Java com Orientação a Objetos
+- Algoritmos e Estruturas de Dados
+- Análise e Desenvolvimento de Sistemas (IFPE)
 
-## 🎓 Formação Acadêmica
+## 📂 O que você encontra aqui
+Exercícios práticos do meu curso de Java,
+organizados por tema: lógica, OOP, algoritmos.
+Projetos que estou (ou irei) desenvovlendo.
 
-### 📚 Análise e Desenvolvimento de Sistemas
-- **Instituição:** IFPE (Instituto Federal de Pernambuco)
-- **Previsão de conclusão:** 2029
-- **Descrição:** Formação completa em desenvolvimento de software, com foco em análise de sistemas, programação orientada a objetos e soluções de problemas reais
-
-## 💬 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Raniel-Honorato)
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranielhonorato)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranielhonorato@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RanielHonorato)
-
----
-
-**"A melhor forma de prever o futuro é o construindo."**
-
-Fico feliz em conectar com você. Vamos crescer juntos!!
