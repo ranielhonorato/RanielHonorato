@@ -18,7 +18,7 @@ com exercícios versionados aqui no GitHub.
 ## 📂 O que você encontra aqui
 - Exercícios práticos do meu curso de Java,
 organizados por tema: lógica, OOP, algoritmos.
-- Projetos que estou (ou irei) desenvovlendo.
+- Projetos pessoais e da faculdade que estou (ou irei) desenvovlendo.
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranielhonorato)
